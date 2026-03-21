@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Dev in Ann Arbor, MI.
+I'm a dev living in Ann Arbor, MI.
 Currently supporting some fast growth at Freshpaint. 
 
 <!--
